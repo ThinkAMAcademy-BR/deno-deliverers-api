@@ -22,5 +22,5 @@ deno run --allow-write --allow-read --allow-plugin --allow-net --allow-env --uns
 ```
 
 # tutorials
-- [ ] pt-BR
+- [X] [pt-BR](https://medium.com/@felipealbuquerq/crie-um-server-com-deno-e-mongo-pt-br-7c7cf9a72986)
 - [X] [en-US](https://dev.to/slimhmidi/create-a-server-with-deno-and-mongo-206l) 
