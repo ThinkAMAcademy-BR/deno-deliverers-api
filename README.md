@@ -13,7 +13,7 @@ git clone https://github.com/ThinkAcademy-BR/deno-deliverers-api.git
 
 # enter into the folder
 ```
-cd deno-deliverers-api
+cd deno-deliverers-api/src
 ```
 
 # start server
